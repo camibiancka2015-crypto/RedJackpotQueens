@@ -1,1 +1,1 @@
-# RedJackpotQueens
+# RJackpotQueens
